@@ -7,7 +7,9 @@ public class Main {
         Dino t_rex = new Dino();
         Dino velocoraptor = new Dino();
         Dino stegosaurus = new Dino();
+        Dino bronchiosuarus = new Dino();
 
+        bronchiosuarus.roar();
         t_rex.roar();
         velocoraptor.roar();
         stegosaurus.roar();
